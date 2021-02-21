@@ -16,7 +16,8 @@ _mailinglist
 .idea/
 docs/_build/
 __pycache__
-.env_file
+# Show env file for Udacity project submission
+# .env_file
 
 # Coverage reports
 htmlcov/
